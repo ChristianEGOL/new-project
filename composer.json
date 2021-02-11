@@ -1,0 +1,12 @@
+{
+    "require-dev": {
+        "symfony/var-dumper": "^5.2",
+        "illuminate/support": "^8.27"
+    },
+    "require": {
+        "nesbot/carbon": "^2.45",
+        "swiftmailer/swiftmailer": "^6.2",
+        "mpdf/mpdf": "^8.0",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
