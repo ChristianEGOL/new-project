@@ -1,5 +1,5 @@
 {
-    "name": "ChristianEGOL/new-project",
+    "name": "Christianegol/new-project",
     "description": "Project template",
     "require-dev": {
         "symfony/var-dumper": "^5.2",
