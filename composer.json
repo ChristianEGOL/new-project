@@ -1,6 +1,7 @@
 {
     "name": "christianegol/new-project",
     "description": "Project template",
+    "license": "MIT",
     "require-dev": {
         "symfony/var-dumper": "^5.2",
         "illuminate/support": "^8.27"
